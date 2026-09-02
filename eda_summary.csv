@@ -1,0 +1,9 @@
+Metric,Value
+Original rows,121
+Rows after removing duplicates,120
+Missing values after cleaning,0
+Total sales,319257470.18
+Average sales,2660478.92
+Total customers,31892
+Highest sales product,Laptop
+Highest sales region,West
